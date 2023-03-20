@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblio>
+    <biblioteca>
+        <codigo>3</codigo>
+        <titulo>cars</titulo>
+        <annoPublicacion>2005</annoPublicacion>
+    </biblioteca>
+    <biblioteca>
+        <codigo>4</codigo>
+        <titulo>Geronimo Stilton</titulo>
+        <annoPublicacion>1997</annoPublicacion>
+    </biblioteca>
+</biblio>
